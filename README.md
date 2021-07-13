@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shana</h1>
-<li> 🔭 I’m currently working on <strong>own projects</strong></li>
+<li> 🔭 I’m currently working on <strong>my Discord Bot</strong></li>
 <li> 🌱 I’m currently learning <strong>Vue.js</strong></li>
 
 <p align="left">
